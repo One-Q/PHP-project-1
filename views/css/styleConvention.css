@@ -1,0 +1,37 @@
+p {
+	font-family:Courier;
+}
+
+.underline {
+	text-decoration:underline;
+}
+
+.bold {
+	font-weight:bold;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+td {
+	width:30%;
+}
+
+.table-header{
+	margin:0 25px 0 25px;
+	padding:15px 0;
+	border-bottom:4px solid black
+}
+
+.text-center{
+	text-align:center;
+}
+
+.table-noborder{
+	border:0;
+}

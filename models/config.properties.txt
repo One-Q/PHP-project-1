@@ -1,0 +1,10 @@
+Teacher Password
+azerty
+Students Password
+STAGES
+Internship date begining
+18/01/2016
+Internship date end
+25/05/2016
+Deadline
+09/05/2016
